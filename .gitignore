@@ -1,9 +1,7 @@
 # Node.js dependencies
 /node_modules
 
-# TypeScript cache and build output
-/dist
-/*.tsbuildinfo
+
 
 # Logs
 logs
